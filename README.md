@@ -67,7 +67,6 @@ Interests
 └─────────────────────────────────────────┘
 ```
 
-👾 Pac-Man Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/f-k-0-0-1/f-k-0-0-1/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
