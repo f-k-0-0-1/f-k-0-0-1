@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faiq Khan</h1>
+<h1 align="center">Hi 👋, I'm Faiq Hasan Khan</h1>
 
 <h3 align="center">
 🚀 Tech Enthusiast | AI & Automation Explorer | SEO Content Writer
@@ -13,7 +13,7 @@ Building skills in AI, automation, software development, and digital technologie
 </p>
 
 
-🚀 About Me
+<h2>🚀 About Me</h2>
 
 * 🎓 Student passionate about technology and innovation
 * 🤖 Exploring AI, Automation & Software Development
@@ -23,7 +23,7 @@ Building skills in AI, automation, software development, and digital technologie
 * 🎯 Goal: Build useful products that solve real-world problems
 
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 Languages & Tools
 
@@ -40,7 +40,7 @@ Interests
 ![Open%20Source](https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge)
 
 
-🌱 Currently Learning
+<h2>🌱 Currently Learning</h2>
 
 * Artificial Intelligence
 * AI Agents
@@ -49,11 +49,11 @@ Interests
 * Open Source Collaboration
 
 
-🎮 Retro Terminal
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=faiq%40github%3A~%24+whoami;Tech+Enthusiast;AI+%26+Automation+Explorer;SEO+Content+Writer;Always+Learning..." />
 </p>
+
+<div align="center">
 
 ```text
 ┌─────────────────────────────────────────┐
@@ -67,20 +67,22 @@ Interests
 └─────────────────────────────────────────┘
 ```
 
+</div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/f-k-0-0-1/f-k-0-0-1/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </p>
 
 
-✍️ Writing Experience
+<h2>✍️ Writing Experience</h2>
 
 * 100+ SEO-focused articles published
 * Experience writing for lifestyle, health, finance, home services, and technology niches
 * Skilled in keyword research, content strategy, readability optimization, and brand voice alignment
 
 
-📫 Connect With Me
+<h2>📫 Connect With Me</h2>
 
 LinkedIn: https://linkedin.com/in/faiq-khan-0fficial
 
